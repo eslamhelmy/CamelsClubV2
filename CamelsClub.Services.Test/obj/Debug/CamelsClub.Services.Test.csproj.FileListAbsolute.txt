@@ -1,0 +1,575 @@
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\NUnit3.TestAdapter.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\NUnit3.TestAdapter.pdb
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\nunit.engine.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\nunit.engine.api.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.Test.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.Test.pdb
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\netstandard.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.AppContext.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Collections.Concurrent.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Collections.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Collections.NonGeneric.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Collections.Specialized.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Console.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Data.Common.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Contracts.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Debug.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Process.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Tools.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Tracing.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Drawing.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Dynamic.Runtime.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Globalization.Calendars.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Globalization.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Globalization.Extensions.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.IO.Compression.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.IO.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.IO.IsolatedStorage.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.IO.Pipes.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Linq.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Linq.Expressions.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Linq.Parallel.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Linq.Queryable.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Net.Http.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Net.NameResolution.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Net.NetworkInformation.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Net.Ping.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Net.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Net.Requests.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Net.Security.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Net.Sockets.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Net.WebSockets.Client.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Net.WebSockets.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.ObjectModel.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Reflection.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Reflection.Extensions.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Reflection.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Resources.Reader.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Resources.ResourceManager.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Resources.Writer.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.Extensions.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.Handles.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.InteropServices.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.Numerics.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Security.Claims.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Security.Principal.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Security.SecureString.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Text.Encoding.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Text.RegularExpressions.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Threading.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Threading.Overlapped.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Threading.Thread.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Threading.ThreadPool.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Threading.Timer.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.ValueTuple.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Xml.ReaderWriter.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Xml.XDocument.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Xml.XmlDocument.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Xml.XmlSerializer.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Xml.XPath.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.ViewModels.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Castle.Core.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Moq.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\nunit.framework.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\EntityFramework.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Localization.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.pdb
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.dll.config
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.pdb
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.dll.config
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.pdb
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.dll.config
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.pdb
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.ViewModels.pdb
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Castle.Core.xml
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\Moq.xml
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\nunit.framework.pdb
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\nunit.framework.xml
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\EntityFramework.xml
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\CamelsClub.Localization.pdb
+D:\E-Saris Workspace\CamelsClub.Services.Test\bin\Debug\en\CamelsClub.Localization.resources.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csprojAssemblyReference.cache
+D:\E-Saris Workspace\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csproj.CoreCompileInputs.cache
+D:\E-Saris Workspace\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csproj.CopyComplete
+D:\E-Saris Workspace\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.dll
+D:\E-Saris Workspace\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.pdb
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csprojAssemblyReference.cache
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csproj.CoreCompileInputs.cache
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\NUnit3.TestAdapter.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\NUnit3.TestAdapter.pdb
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.engine.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.engine.api.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.Test.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.Test.pdb
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\netstandard.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.AppContext.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.Concurrent.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.NonGeneric.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.Specialized.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.Primitives.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Console.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Data.Common.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Contracts.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Debug.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Process.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Tools.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Tracing.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Drawing.Primitives.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Dynamic.Runtime.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Globalization.Calendars.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Globalization.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Globalization.Extensions.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.Compression.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.IsolatedStorage.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.Pipes.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.Expressions.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.Parallel.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.Queryable.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Http.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.NameResolution.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.NetworkInformation.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Ping.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Primitives.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Requests.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Security.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Sockets.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.WebSockets.Client.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.WebSockets.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ObjectModel.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Reflection.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Reflection.Extensions.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Reflection.Primitives.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Resources.Reader.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Resources.ResourceManager.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Resources.Writer.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Extensions.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Handles.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.InteropServices.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Numerics.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Claims.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Principal.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.SecureString.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Text.Encoding.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Text.RegularExpressions.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Overlapped.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Thread.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.ThreadPool.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Timer.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ValueTuple.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.ReaderWriter.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XDocument.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XmlDocument.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XmlSerializer.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XPath.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.ViewModels.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Castle.Core.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Moq.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.framework.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\EntityFramework.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Localization.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.pdb
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.dll.config
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.pdb
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.dll.config
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.pdb
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.dll.config
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.pdb
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.ViewModels.pdb
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Castle.Core.xml
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Moq.xml
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.framework.pdb
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.framework.xml
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\EntityFramework.xml
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Localization.pdb
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\en\CamelsClub.Localization.resources.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csproj.CopyComplete
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.dll
+D:\E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.pdb
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\NUnit3.TestAdapter.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\NUnit3.TestAdapter.pdb
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.engine.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.engine.api.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.Test.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.Test.pdb
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\netstandard.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.AppContext.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.Concurrent.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.NonGeneric.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.Specialized.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.Primitives.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Console.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Data.Common.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Contracts.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Debug.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Process.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Tools.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Tracing.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Drawing.Primitives.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Dynamic.Runtime.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Globalization.Calendars.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Globalization.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Globalization.Extensions.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.Compression.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.IsolatedStorage.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.Pipes.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.Expressions.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.Parallel.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.Queryable.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Http.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.NameResolution.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.NetworkInformation.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Ping.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Primitives.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Requests.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Security.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Sockets.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.WebSockets.Client.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.WebSockets.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ObjectModel.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Reflection.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Reflection.Extensions.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Reflection.Primitives.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Resources.Reader.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Resources.ResourceManager.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Resources.Writer.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Extensions.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Handles.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.InteropServices.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Numerics.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Claims.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Principal.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.SecureString.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Text.Encoding.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Text.RegularExpressions.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Overlapped.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Thread.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.ThreadPool.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Timer.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ValueTuple.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.ReaderWriter.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XDocument.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XmlDocument.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XmlSerializer.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XPath.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.ViewModels.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Castle.Core.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Moq.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.framework.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\EntityFramework.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Localization.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.pdb
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.dll.config
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.pdb
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.dll.config
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.pdb
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.dll.config
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.pdb
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.ViewModels.pdb
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Castle.Core.xml
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Moq.xml
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.framework.pdb
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.framework.xml
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\EntityFramework.xml
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Localization.pdb
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\en\CamelsClub.Localization.resources.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csprojAssemblyReference.cache
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csproj.CoreCompileInputs.cache
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csproj.CopyComplete
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.dll
+D:\New E-saris Workspace\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\NUnit3.TestAdapter.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.engine.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.engine.api.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.Test.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.Test.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\netstandard.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.AppContext.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.Concurrent.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.NonGeneric.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Collections.Specialized.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Console.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Data.Common.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Debug.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Process.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Tools.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Drawing.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Dynamic.Runtime.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Globalization.Calendars.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Globalization.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Globalization.Extensions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.Compression.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.Pipes.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.Expressions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.Parallel.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Linq.Queryable.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Http.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.NameResolution.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.NetworkInformation.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Ping.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Requests.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Security.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.Sockets.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Net.WebSockets.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ObjectModel.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Reflection.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Reflection.Extensions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Reflection.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Resources.Reader.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Resources.ResourceManager.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Resources.Writer.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Extensions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Handles.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.InteropServices.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Numerics.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Claims.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.Principal.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Security.SecureString.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Text.Encoding.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Text.RegularExpressions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Overlapped.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Thread.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.ThreadPool.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Timer.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.ValueTuple.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XDocument.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XmlDocument.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XPath.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.ViewModels.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Castle.Core.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Moq.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.framework.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\EntityFramework.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Localization.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Data.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Models.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Repositories.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Services.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.ViewModels.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Castle.Core.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\Moq.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.framework.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\nunit.framework.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\EntityFramework.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\CamelsClub.Localization.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\bin\Debug\en\CamelsClub.Localization.resources.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csprojAssemblyReference.cache
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csproj.CoreCompileInputs.cache
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csproj.CopyComplete
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.pdb
+D:\LastVersionOfCamels\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csprojAssemblyReference.cache
+D:\LastVersionOfCamels\Camels-Club-V2\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csproj.CoreCompileInputs.cache
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Services.Test\obj\Debug\CamelsClub.Services.Test.csprojAssemblyReference.cache

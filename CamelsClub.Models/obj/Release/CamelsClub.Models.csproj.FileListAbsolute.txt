@@ -1,0 +1,34 @@
+D:\E-Saris Workspace\CamelsClub.Models\bin\Release\CamelsClub.Models.dll.config
+D:\E-Saris Workspace\CamelsClub.Models\bin\Release\CamelsClub.Models.dll
+D:\E-Saris Workspace\CamelsClub.Models\bin\Release\CamelsClub.Models.pdb
+D:\E-Saris Workspace\CamelsClub.Models\bin\Release\EntityFramework.dll
+D:\E-Saris Workspace\CamelsClub.Models\bin\Release\EntityFramework.SqlServer.dll
+D:\E-Saris Workspace\CamelsClub.Models\bin\Release\EntityFramework.xml
+D:\E-Saris Workspace\CamelsClub.Models\bin\Release\EntityFramework.SqlServer.xml
+D:\E-Saris Workspace\CamelsClub.Models\obj\Release\CamelsClub.Models.csprojAssemblyReference.cache
+D:\E-Saris Workspace\CamelsClub.Models\obj\Release\CamelsClub.Models.csproj.CoreCompileInputs.cache
+D:\E-Saris Workspace\CamelsClub.Models\obj\Release\CamelsClub.Models.csproj.CopyComplete
+D:\E-Saris Workspace\CamelsClub.Models\obj\Release\CamelsClub.Models.dll
+D:\E-Saris Workspace\CamelsClub.Models\obj\Release\CamelsClub.Models.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Models\bin\Release\CamelsClub.Models.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Models\bin\Release\CamelsClub.Models.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Models\bin\Release\CamelsClub.Models.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Models\bin\Release\EntityFramework.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Models\bin\Release\EntityFramework.SqlServer.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Models\bin\Release\EntityFramework.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Models\bin\Release\EntityFramework.SqlServer.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Models\obj\Release\CamelsClub.Models.csprojAssemblyReference.cache
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Models\obj\Release\CamelsClub.Models.csproj.CopyComplete
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Models\obj\Release\CamelsClub.Models.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Models\obj\Release\CamelsClub.Models.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Models\bin\Release\CamelsClub.Models.dll.config
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Models\bin\Release\CamelsClub.Models.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Models\bin\Release\CamelsClub.Models.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Models\bin\Release\EntityFramework.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Models\bin\Release\EntityFramework.SqlServer.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Models\bin\Release\EntityFramework.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Models\bin\Release\EntityFramework.SqlServer.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Models\obj\Release\CamelsClub.Models.csprojAssemblyReference.cache
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Models\obj\Release\CamelsClub.Models.csproj.CopyComplete
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Models\obj\Release\CamelsClub.Models.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Models\obj\Release\CamelsClub.Models.pdb

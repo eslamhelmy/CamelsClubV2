@@ -1,0 +1,67 @@
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.Repositories.dll.config
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.Repositories.dll
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.Repositories.pdb
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.Data.dll
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.Models.dll
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\EntityFramework.dll
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\EntityFramework.SqlServer.dll
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.Data.pdb
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.Data.dll.config
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.Models.pdb
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.Models.dll.config
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\EntityFramework.xml
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\EntityFramework.SqlServer.xml
+D:\E-Saris Workspace\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.csprojAssemblyReference.cache
+D:\E-Saris Workspace\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.csproj.CoreCompileInputs.cache
+D:\E-Saris Workspace\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.csproj.CopyComplete
+D:\E-Saris Workspace\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.dll
+D:\E-Saris Workspace\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.pdb
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.ViewModels.dll
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.Localization.dll
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.ViewModels.pdb
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\CamelsClub.Localization.pdb
+D:\E-Saris Workspace\CamelsClub.Repositories\bin\Release\en\CamelsClub.Localization.resources.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.Repositories.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.Repositories.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.Repositories.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.Data.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.Models.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.ViewModels.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\EntityFramework.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\EntityFramework.SqlServer.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.Localization.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.Data.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.Data.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.Models.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.Models.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.ViewModels.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\EntityFramework.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\EntityFramework.SqlServer.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\CamelsClub.Localization.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\bin\Release\en\CamelsClub.Localization.resources.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.csprojAssemblyReference.cache
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.csproj.CopyComplete
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.Repositories.dll.config
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.Repositories.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.Repositories.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.Data.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.Models.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.ViewModels.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\EntityFramework.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\EntityFramework.SqlServer.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.Localization.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.Data.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.Data.dll.config
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.Models.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.Models.dll.config
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.ViewModels.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\EntityFramework.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\EntityFramework.SqlServer.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\CamelsClub.Localization.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\bin\Release\en\CamelsClub.Localization.resources.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.csprojAssemblyReference.cache
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.csproj.CopyComplete
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Repositories\obj\Release\CamelsClub.Repositories.pdb

@@ -1,0 +1,43 @@
+D:\E-Saris Workspace\CamelsClub.ViewModels\bin\Release\CamelsClub.ViewModels.dll
+D:\E-Saris Workspace\CamelsClub.ViewModels\bin\Release\CamelsClub.ViewModels.pdb
+D:\E-Saris Workspace\CamelsClub.ViewModels\bin\Release\CamelsClub.Localization.dll
+D:\E-Saris Workspace\CamelsClub.ViewModels\bin\Release\CamelsClub.Models.dll
+D:\E-Saris Workspace\CamelsClub.ViewModels\bin\Release\EntityFramework.dll
+D:\E-Saris Workspace\CamelsClub.ViewModels\bin\Release\CamelsClub.Localization.pdb
+D:\E-Saris Workspace\CamelsClub.ViewModels\bin\Release\CamelsClub.Models.pdb
+D:\E-Saris Workspace\CamelsClub.ViewModels\bin\Release\CamelsClub.Models.dll.config
+D:\E-Saris Workspace\CamelsClub.ViewModels\bin\Release\EntityFramework.xml
+D:\E-Saris Workspace\CamelsClub.ViewModels\bin\Release\en\CamelsClub.Localization.resources.dll
+D:\E-Saris Workspace\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.csprojAssemblyReference.cache
+D:\E-Saris Workspace\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.csproj.CoreCompileInputs.cache
+D:\E-Saris Workspace\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.csproj.CopyComplete
+D:\E-Saris Workspace\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.dll
+D:\E-Saris Workspace\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\bin\Release\CamelsClub.ViewModels.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\bin\Release\CamelsClub.ViewModels.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\bin\Release\CamelsClub.Localization.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\bin\Release\CamelsClub.Models.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\bin\Release\EntityFramework.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\bin\Release\CamelsClub.Localization.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\bin\Release\CamelsClub.Models.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\bin\Release\CamelsClub.Models.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\bin\Release\EntityFramework.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\bin\Release\en\CamelsClub.Localization.resources.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.csprojAssemblyReference.cache
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.csproj.CopyComplete
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\bin\Release\CamelsClub.ViewModels.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\bin\Release\CamelsClub.ViewModels.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\bin\Release\CamelsClub.Localization.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\bin\Release\CamelsClub.Models.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\bin\Release\EntityFramework.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\bin\Release\CamelsClub.Localization.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\bin\Release\CamelsClub.Models.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\bin\Release\CamelsClub.Models.dll.config
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\bin\Release\EntityFramework.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\bin\Release\en\CamelsClub.Localization.resources.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.csprojAssemblyReference.cache
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.csproj.CopyComplete
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.ViewModels\obj\Release\CamelsClub.ViewModels.pdb

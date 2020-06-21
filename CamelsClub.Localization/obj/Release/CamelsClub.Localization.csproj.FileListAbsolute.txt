@@ -1,0 +1,31 @@
+D:\E-Saris Workspace\CamelsClub.Localization\bin\Release\CamelsClub.Localization.dll
+D:\E-Saris Workspace\CamelsClub.Localization\bin\Release\CamelsClub.Localization.pdb
+D:\E-Saris Workspace\CamelsClub.Localization\bin\Release\en\CamelsClub.Localization.resources.dll
+D:\E-Saris Workspace\CamelsClub.Localization\obj\Release\CamelsClub.Localization.csprojAssemblyReference.cache
+D:\E-Saris Workspace\CamelsClub.Localization\obj\Release\CamelsClub.Localization.Shared.Resource.resources
+D:\E-Saris Workspace\CamelsClub.Localization\obj\Release\CamelsClub.Localization.Shared.Resource.en.resources
+D:\E-Saris Workspace\CamelsClub.Localization\obj\Release\CamelsClub.Localization.csproj.GenerateResource.cache
+D:\E-Saris Workspace\CamelsClub.Localization\obj\Release\CamelsClub.Localization.csproj.CoreCompileInputs.cache
+D:\E-Saris Workspace\CamelsClub.Localization\obj\Release\en\CamelsClub.Localization.resources.dll
+D:\E-Saris Workspace\CamelsClub.Localization\obj\Release\CamelsClub.Localization.dll
+D:\E-Saris Workspace\CamelsClub.Localization\obj\Release\CamelsClub.Localization.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Localization\bin\Release\CamelsClub.Localization.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Localization\bin\Release\CamelsClub.Localization.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Localization\bin\Release\en\CamelsClub.Localization.resources.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Localization\obj\Release\CamelsClub.Localization.csprojAssemblyReference.cache
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Localization\obj\Release\CamelsClub.Localization.Shared.Resource.resources
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Localization\obj\Release\CamelsClub.Localization.Shared.Resource.en.resources
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Localization\obj\Release\CamelsClub.Localization.csproj.GenerateResource.cache
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Localization\obj\Release\en\CamelsClub.Localization.resources.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Localization\obj\Release\CamelsClub.Localization.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Localization\obj\Release\CamelsClub.Localization.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Localization\bin\Release\CamelsClub.Localization.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Localization\bin\Release\CamelsClub.Localization.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Localization\bin\Release\en\CamelsClub.Localization.resources.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Localization\obj\Release\CamelsClub.Localization.csprojAssemblyReference.cache
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Localization\obj\Release\CamelsClub.Localization.Shared.Resource.resources
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Localization\obj\Release\CamelsClub.Localization.Shared.Resource.en.resources
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Localization\obj\Release\CamelsClub.Localization.csproj.GenerateResource.cache
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Localization\obj\Release\en\CamelsClub.Localization.resources.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Localization\obj\Release\CamelsClub.Localization.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Localization\obj\Release\CamelsClub.Localization.pdb

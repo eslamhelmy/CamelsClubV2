@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2F281CED-3A44-4650-B78A-FE06D4E29BEA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CamelsClub.Services</RootNamespace>
+    <AssemblyName>CamelsClub.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CheckerModule\CheckerBossApprove\ICheckerBossApproveService.cs" />
+    <Compile Include="CheckerModule\CheckerBossApprove\CheckerBossApproveService.cs" />
+    <Compile Include="CheckerModule\SubCheckerApprove\SubCheckerApproveService.cs" />
+    <Compile Include="CheckerModule\SubCheckerApprove\ISubCheckerApproveService.cs" />
+    <Compile Include="CompetitionModule\CompetitionReferee\RefereesReportViewModel.cs" />
+    <Compile Include="Dashboard\DashboardService.cs" />
+    <Compile Include="Dashboard\IDashboardService.cs" />
+    <Compile Include="Helpers\IApplicationLog.cs" />
+    <Compile Include="Helpers\ApplicationLog.cs" />
+    <Compile Include="Helpers\EmailHelper.cs" />
+    <Compile Include="Notification\IUserNotificationSettingService.cs" />
+    <Compile Include="Notification\NotificationEnglishKeys.cs" />
+    <Compile Include="Notification\NotificationArabicKeys.cs" />
+    <Compile Include="Notification\UnSeenNotificationViewModel.cs" />
+    <Compile Include="Notification\UserNotificationSettingService.cs" />
+    <Compile Include="OperationResultModel\OperationResult.cs" />
+    <Compile Include="RefereeModule\IRefereeCamelReviewService.cs" />
+    <Compile Include="RefereeModule\RefereeCamelReviewService.cs" />
+    <Compile Include="SocialModule\ConditionsAndTerms\IConditionsAndTermsService.cs" />
+    <Compile Include="SocialModule\ConditionsAndTerms\ConditionsAndTermsService.cs" />
+    <Compile Include="SocialModule\PageService\PageService.cs" />
+    <Compile Include="SocialModule\PageService\IPageService.cs" />
+    <Compile Include="SocialModule\Message\MessageService.cs" />
+    <Compile Include="SocialModule\Message\IMessageService.cs" />
+    <Compile Include="SocialModule\IssueReport\IIssueReportService.cs" />
+    <Compile Include="SocialModule\IssueReport\IssueReportService.cs" />
+    <Compile Include="SocialModule\PageService\PageViewModel.cs" />
+    <Compile Include="SocialModule\PageService\PermissionViewModel.cs" />
+    <Compile Include="SocialModule\ReportReason\ReportReasonService.cs" />
+    <Compile Include="SocialModule\ReportReason\IReportReasonService.cs" />
+    <Compile Include="CompetitionModule\CamelCompetition\CamelCompetitionService.cs" />
+    <Compile Include="CompetitionModule\CamelCompetition\ICamelCompetitionService.cs" />
+    <Compile Include="CompetitionModule\CompetitionChecker\CompetitionCheckerService.cs" />
+    <Compile Include="CompetitionModule\CompetitionChecker\ICompetitionCheckerService.cs" />
+    <Compile Include="CompetitionModule\CompetitionInvite\CompetitionInviteService.cs" />
+    <Compile Include="CompetitionModule\CompetitionInvite\ICompetitionInviteService.cs" />
+    <Compile Include="CompetitionModule\CompetitionReferee\CompetitionRefereeService.cs" />
+    <Compile Include="CompetitionModule\CompetitionReferee\ICompetitionRefereeService.cs" />
+    <Compile Include="CompetitionModule\CompetitionReward\CompetitionRewardService.cs" />
+    <Compile Include="CompetitionModule\CompetitionReward\ICompetitionRewardService.cs" />
+    <Compile Include="CompetitionModule\Competition\CompetitionService.cs" />
+    <Compile Include="CompetitionModule\Competition\ICompetitionService.cs" />
+    <Compile Include="SocialModule\Friend\FriendService.cs" />
+    <Compile Include="SocialModule\Friend\IFriendService.cs" />
+    <Compile Include="SocialModule\FriendRequest\IFriendRequestService.cs" />
+    <Compile Include="SocialModule\FriendRequest\FriendRequestService.cs" />
+    <Compile Include="Helpers\NotificationHelper.cs" />
+    <Compile Include="Notification\INotificationService.cs" />
+    <Compile Include="Notification\NotificationService.cs" />
+    <Compile Include="SocialModule\UserProfile\UserProfileService.cs" />
+    <Compile Include="SocialModule\UserProfile\IUserProfileService.cs" />
+    <Compile Include="SocialModule\CommentUserAction\ICommentUserActionService.cs" />
+    <Compile Include="SocialModule\CommentUserAction\CommentUserActionService.cs" />
+    <Compile Include="CamelModule\CamelService\CamelService.cs" />
+    <Compile Include="CamelModule\CamelService\ICamelService.cs" />
+    <Compile Include="CamelModule\GroupService\GroupService.cs" />
+    <Compile Include="CamelModule\GroupService\IGroupService.cs" />
+    <Compile Include="CamelModule\CategoryService\ICategoryService.cs" />
+    <Compile Include="CamelModule\CategoryService\CategoryService.cs" />
+    <Compile Include="SocialModule\PostUserAction\PostUserActionService.cs" />
+    <Compile Include="SocialModule\PostUserAction\IPostUserActionService.cs" />
+    <Compile Include="Helpers\FileHelper.cs" />
+    <Compile Include="Helpers\HttpRequestHelper.cs" />
+    <Compile Include="Helpers\ImageHelper.cs" />
+    <Compile Include="Helpers\StringConvertor.cs" />
+    <Compile Include="Helpers\TextHelper.cs" />
+    <Compile Include="SocialModule\Comment\ICommentService.cs" />
+    <Compile Include="SocialModule\Comment\CommentService.cs" />
+    <Compile Include="SocialModule\Post\IPostService.cs" />
+    <Compile Include="SocialModule\Post\PostService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SocialModule\UserConfirmationMessage\IUserConfirmationMessageService.cs" />
+    <Compile Include="SocialModule\UserConfirmationMessage\UserConfirmationMessageService.cs" />
+    <Compile Include="SocialModule\User\ITokenService.cs" />
+    <Compile Include="SocialModule\User\IUserRoleService.cs" />
+    <Compile Include="SocialModule\User\IUserService.cs" />
+    <Compile Include="SocialModule\User\TokenService.cs" />
+    <Compile Include="SocialModule\User\UserRoleService.cs" />
+    <Compile Include="SocialModule\User\UserService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CamelsClub.Data\CamelsClub.Data.csproj">
+      <Project>{F6DDEF7D-E778-4F9F-A1C6-12DF2D14C747}</Project>
+      <Name>CamelsClub.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CamelsClub.Localization\CamelsClub.Localization.csproj">
+      <Project>{0FFD5DFE-1CB2-492C-BE83-5FD1DA6B4233}</Project>
+      <Name>CamelsClub.Localization</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CamelsClub.Models\CamelsClub.Models.csproj">
+      <Project>{3FD6F292-F964-4206-A4A1-22CEE340E755}</Project>
+      <Name>CamelsClub.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CamelsClub.Repositories\CamelsClub.Repositories.csproj">
+      <Project>{3C474CC4-0AFB-47B0-8E75-A684C425037D}</Project>
+      <Name>CamelsClub.Repositories</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CamelsClub.ViewModels\CamelsClub.ViewModels.csproj">
+      <Project>{1498905F-8020-47B1-8B4B-8C96D9178370}</Project>
+      <Name>CamelsClub.ViewModels</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,50 @@
+D:\E-Saris Workspace\CamelsClub.Data\bin\Release\CamelsClub.Data.dll.config
+D:\E-Saris Workspace\CamelsClub.Data\bin\Release\CamelsClub.Data.dll
+D:\E-Saris Workspace\CamelsClub.Data\bin\Release\CamelsClub.Data.pdb
+D:\E-Saris Workspace\CamelsClub.Data\bin\Release\CamelsClub.Models.dll
+D:\E-Saris Workspace\CamelsClub.Data\bin\Release\EntityFramework.dll
+D:\E-Saris Workspace\CamelsClub.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\E-Saris Workspace\CamelsClub.Data\bin\Release\CamelsClub.Models.pdb
+D:\E-Saris Workspace\CamelsClub.Data\bin\Release\CamelsClub.Models.dll.config
+D:\E-Saris Workspace\CamelsClub.Data\bin\Release\EntityFramework.xml
+D:\E-Saris Workspace\CamelsClub.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\E-Saris Workspace\CamelsClub.Data\obj\Release\CamelsClub.Data.csprojAssemblyReference.cache
+D:\E-Saris Workspace\CamelsClub.Data\obj\Release\CamelsClub.Data.csproj.GenerateResource.cache
+D:\E-Saris Workspace\CamelsClub.Data\obj\Release\CamelsClub.Data.csproj.CoreCompileInputs.cache
+D:\E-Saris Workspace\CamelsClub.Data\obj\Release\CamelsClub.Data.csproj.CopyComplete
+D:\E-Saris Workspace\CamelsClub.Data\obj\Release\CamelsClub.Data.dll
+D:\E-Saris Workspace\CamelsClub.Data\obj\Release\CamelsClub.Data.pdb
+D:\E-Saris Workspace\CamelsClub.Data\obj\Release\CamelsClub.Data.Migrations.init.resources
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\bin\Release\CamelsClub.Data.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\bin\Release\CamelsClub.Data.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\bin\Release\CamelsClub.Data.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\bin\Release\CamelsClub.Models.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\bin\Release\EntityFramework.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\bin\Release\CamelsClub.Models.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\bin\Release\CamelsClub.Models.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\bin\Release\EntityFramework.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\obj\Release\CamelsClub.Data.csprojAssemblyReference.cache
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\obj\Release\CamelsClub.Data.csproj.CopyComplete
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\obj\Release\CamelsClub.Data.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\obj\Release\CamelsClub.Data.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\obj\Release\CamelsClub.Data.Migrations.init.resources
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.Data\obj\Release\CamelsClub.Data.csproj.GenerateResource.cache
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\bin\Release\CamelsClub.Data.dll.config
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\bin\Release\CamelsClub.Data.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\bin\Release\CamelsClub.Data.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\bin\Release\CamelsClub.Models.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\bin\Release\EntityFramework.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\bin\Release\CamelsClub.Models.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\bin\Release\CamelsClub.Models.dll.config
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\bin\Release\EntityFramework.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\obj\Release\CamelsClub.Data.csprojAssemblyReference.cache
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\obj\Release\CamelsClub.Data.csproj.CopyComplete
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\obj\Release\CamelsClub.Data.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\obj\Release\CamelsClub.Data.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\obj\Release\CamelsClub.Data.Migrations.init.resources
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\obj\Release\CamelsClub.Data.csproj.GenerateResource.cache
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.Data\obj\Release\CamelsClub.Data.Migrations.init11.resources

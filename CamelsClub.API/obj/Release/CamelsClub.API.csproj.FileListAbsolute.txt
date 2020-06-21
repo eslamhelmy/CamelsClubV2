@@ -1,0 +1,583 @@
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.API.dll.config
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.API.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.API.pdb
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.Win32.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\netstandard.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.AppContext.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Collections.Concurrent.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Collections.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Collections.NonGeneric.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Collections.Specialized.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.ComponentModel.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.ComponentModel.EventBasedAsync.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.ComponentModel.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.ComponentModel.TypeConverter.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Console.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Data.Common.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Diagnostics.Contracts.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Diagnostics.Debug.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Diagnostics.FileVersionInfo.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Diagnostics.Process.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Diagnostics.StackTrace.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Diagnostics.Tools.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Diagnostics.TraceSource.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Diagnostics.Tracing.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Drawing.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Dynamic.Runtime.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Globalization.Calendars.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Globalization.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Globalization.Extensions.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.IO.Compression.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.IO.Compression.ZipFile.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.IO.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.IO.FileSystem.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.IO.FileSystem.DriveInfo.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.IO.FileSystem.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.IO.FileSystem.Watcher.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.IO.IsolatedStorage.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.IO.MemoryMappedFiles.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.IO.Pipes.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.IO.UnmanagedMemoryStream.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Linq.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Linq.Expressions.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Linq.Parallel.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Linq.Queryable.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.Http.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.NameResolution.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.NetworkInformation.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.Ping.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.Requests.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.Security.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.Sockets.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.WebHeaderCollection.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.WebSockets.Client.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.WebSockets.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.ObjectModel.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Reflection.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Reflection.Extensions.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Reflection.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Resources.Reader.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Resources.ResourceManager.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Resources.Writer.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.Extensions.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.Handles.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.InteropServices.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.Numerics.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.Serialization.Formatters.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.Serialization.Json.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.Serialization.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.Serialization.Xml.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Security.Claims.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Security.Cryptography.Algorithms.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Security.Cryptography.Csp.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Security.Cryptography.Encoding.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Security.Cryptography.Primitives.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Security.Cryptography.X509Certificates.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Security.Principal.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Security.SecureString.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Text.Encoding.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Text.Encoding.Extensions.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Text.RegularExpressions.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Threading.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Threading.Overlapped.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Threading.Tasks.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Threading.Tasks.Parallel.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Threading.Thread.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Threading.ThreadPool.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Threading.Timer.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.ValueTuple.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Xml.ReaderWriter.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Xml.XDocument.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Xml.XmlDocument.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Xml.XmlSerializer.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Xml.XPath.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Xml.XPath.XDocument.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Antlr3.Runtime.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Autofac.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Autofac.Integration.Mvc.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Autofac.Integration.WebApi.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Data.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Localization.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Repositories.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Services.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.ViewModels.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\EntityFramework.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\EntityFramework.SqlServer.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AI.DependencyCollector.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AI.Web.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AI.WindowsServer.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.ApplicationInsights.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.Owin.Cors.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.Owin.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.Web.Infrastructure.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Newtonsoft.Json.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\Owin.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Buffers.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Memory.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.Http.Formatting.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Numerics.Vectors.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Cors.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Helpers.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Http.Cors.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Http.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Http.WebHost.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Mvc.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Optimization.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Razor.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.WebPages.Deployment.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.WebPages.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.WebPages.Razor.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\WebGrease.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Models.dll
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Data.pdb
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Data.dll.config
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Localization.pdb
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Repositories.pdb
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Repositories.dll.config
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Services.pdb
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.ViewModels.pdb
+D:\E-Saris Workspace\CamelsClub.API\bin\Autofac.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Autofac.Integration.Mvc.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Autofac.Integration.WebApi.pdb
+D:\E-Saris Workspace\CamelsClub.API\bin\Autofac.Integration.WebApi.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\EntityFramework.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\EntityFramework.SqlServer.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AI.DependencyCollector.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AI.Web.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AI.WindowsServer.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.ApplicationInsights.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.Owin.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.Owin.Cors.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Buffers.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Memory.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Net.Http.Formatting.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Numerics.Vectors.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Http.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Http.Cors.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Newtonsoft.Json.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Helpers.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Http.WebHost.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Mvc.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Optimization.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.Razor.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.WebPages.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.WebPages.Deployment.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\System.Web.WebPages.Razor.xml
+D:\E-Saris Workspace\CamelsClub.API\bin\Antlr3.Runtime.pdb
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Models.pdb
+D:\E-Saris Workspace\CamelsClub.API\bin\CamelsClub.Models.dll.config
+D:\E-Saris Workspace\CamelsClub.API\bin\en\CamelsClub.Localization.resources.dll
+D:\E-Saris Workspace\CamelsClub.API\obj\Release\CamelsClub.API.csprojAssemblyReference.cache
+D:\E-Saris Workspace\CamelsClub.API\obj\Release\CamelsClub.API.csproj.CoreCompileInputs.cache
+D:\E-Saris Workspace\CamelsClub.API\obj\Release\CamelsClub.API.csproj.CopyComplete
+D:\E-Saris Workspace\CamelsClub.API\obj\Release\CamelsClub.API.dll
+D:\E-Saris Workspace\CamelsClub.API\obj\Release\CamelsClub.API.pdb
+D:\E-Saris Workspace\CamelsClub.API\bin\Autofac.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.API.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.API.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.API.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.Win32.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\netstandard.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.AppContext.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Collections.Concurrent.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Collections.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Collections.NonGeneric.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Collections.Specialized.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.ComponentModel.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.ComponentModel.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.ComponentModel.TypeConverter.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Console.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Data.Common.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Diagnostics.Contracts.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Diagnostics.Debug.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Diagnostics.Process.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Diagnostics.StackTrace.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Diagnostics.Tools.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Diagnostics.TraceSource.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Diagnostics.Tracing.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Drawing.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Dynamic.Runtime.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Globalization.Calendars.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Globalization.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Globalization.Extensions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.IO.Compression.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.IO.Compression.ZipFile.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.IO.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.IO.FileSystem.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.IO.FileSystem.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.IO.FileSystem.Watcher.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.IO.IsolatedStorage.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.IO.MemoryMappedFiles.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.IO.Pipes.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Linq.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Linq.Expressions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Linq.Parallel.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Linq.Queryable.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.Http.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.NameResolution.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.NetworkInformation.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.Ping.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.Requests.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.Security.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.Sockets.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.WebHeaderCollection.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.WebSockets.Client.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.WebSockets.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.ObjectModel.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Reflection.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Reflection.Extensions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Reflection.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Resources.Reader.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Resources.ResourceManager.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Resources.Writer.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.Extensions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.Handles.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.InteropServices.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.Numerics.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.Serialization.Formatters.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.Serialization.Json.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.Serialization.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.Serialization.Xml.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Security.Claims.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Security.Cryptography.Algorithms.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Security.Cryptography.Csp.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Security.Cryptography.Encoding.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Security.Cryptography.Primitives.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Security.Principal.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Security.SecureString.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Text.Encoding.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Text.Encoding.Extensions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Text.RegularExpressions.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Threading.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Threading.Overlapped.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Threading.Tasks.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Threading.Tasks.Parallel.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Threading.Thread.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Threading.ThreadPool.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Threading.Timer.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.ValueTuple.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Xml.ReaderWriter.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Xml.XDocument.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Xml.XmlDocument.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Xml.XmlSerializer.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Xml.XPath.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Xml.XPath.XDocument.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Antlr3.Runtime.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Autofac.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Autofac.Integration.Mvc.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Autofac.Integration.WebApi.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Data.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Localization.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Repositories.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Services.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.ViewModels.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\EntityFramework.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\EntityFramework.SqlServer.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AI.DependencyCollector.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AI.Web.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AI.WindowsServer.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.ApplicationInsights.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.Owin.Cors.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.Owin.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.Web.Infrastructure.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Newtonsoft.Json.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Owin.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Buffers.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Memory.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.Http.Formatting.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Numerics.Vectors.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Cors.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Helpers.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Http.Cors.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Http.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Http.WebHost.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Mvc.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Optimization.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Razor.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.WebPages.Deployment.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.WebPages.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.WebPages.Razor.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\WebGrease.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Models.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Data.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Data.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Localization.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Repositories.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Repositories.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Services.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.ViewModels.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Autofac.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Autofac.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Autofac.Integration.Mvc.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Autofac.Integration.WebApi.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Autofac.Integration.WebApi.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\EntityFramework.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\EntityFramework.SqlServer.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AI.DependencyCollector.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AI.Web.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AI.WindowsServer.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.ApplicationInsights.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.Owin.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.Owin.Cors.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Buffers.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Memory.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Net.Http.Formatting.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Numerics.Vectors.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Http.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Http.Cors.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Newtonsoft.Json.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Helpers.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Http.WebHost.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Mvc.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Optimization.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.Razor.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.WebPages.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.WebPages.Deployment.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\System.Web.WebPages.Razor.xml
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Antlr3.Runtime.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Models.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\CamelsClub.Models.dll.config
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\en\CamelsClub.Localization.resources.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\obj\Release\CamelsClub.API.csprojAssemblyReference.cache
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\obj\Release\CamelsClub.API.csproj.CopyComplete
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\obj\Release\CamelsClub.API.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\obj\Release\CamelsClub.API.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AspNet.WebApi.Versioning.dll
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AspNet.WebApi.Versioning.pdb
+D:\Camels-Rescue\Camels-Club-V2\CamelsClub.API\bin\Microsoft.AspNet.WebApi.Versioning.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.API.dll.config
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.API.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.API.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.Win32.Primitives.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\netstandard.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.AppContext.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Collections.Concurrent.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Collections.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Collections.NonGeneric.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Collections.Specialized.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.ComponentModel.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.ComponentModel.EventBasedAsync.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.ComponentModel.Primitives.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.ComponentModel.TypeConverter.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Console.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Data.Common.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Diagnostics.Contracts.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Diagnostics.Debug.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Diagnostics.FileVersionInfo.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Diagnostics.Process.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Diagnostics.StackTrace.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Diagnostics.Tools.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Diagnostics.TraceSource.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Diagnostics.Tracing.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Drawing.Primitives.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Dynamic.Runtime.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Globalization.Calendars.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Globalization.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Globalization.Extensions.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.IO.Compression.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.IO.Compression.ZipFile.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.IO.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.IO.FileSystem.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.IO.FileSystem.DriveInfo.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.IO.FileSystem.Primitives.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.IO.FileSystem.Watcher.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.IO.IsolatedStorage.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.IO.MemoryMappedFiles.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.IO.Pipes.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.IO.UnmanagedMemoryStream.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Linq.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Linq.Expressions.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Linq.Parallel.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Linq.Queryable.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.Http.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.NameResolution.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.NetworkInformation.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.Ping.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.Primitives.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.Requests.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.Security.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.Sockets.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.WebHeaderCollection.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.WebSockets.Client.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.WebSockets.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.ObjectModel.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Reflection.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Reflection.Extensions.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Reflection.Primitives.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Resources.Reader.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Resources.ResourceManager.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Resources.Writer.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.Extensions.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.Handles.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.InteropServices.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.Numerics.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.Serialization.Formatters.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.Serialization.Json.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.Serialization.Primitives.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.Serialization.Xml.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Security.Claims.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Security.Cryptography.Algorithms.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Security.Cryptography.Csp.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Security.Cryptography.Encoding.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Security.Cryptography.Primitives.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Security.Cryptography.X509Certificates.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Security.Principal.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Security.SecureString.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Text.Encoding.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Text.Encoding.Extensions.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Text.RegularExpressions.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Threading.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Threading.Overlapped.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Threading.Tasks.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Threading.Tasks.Parallel.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Threading.Thread.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Threading.ThreadPool.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Threading.Timer.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.ValueTuple.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Xml.ReaderWriter.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Xml.XDocument.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Xml.XmlDocument.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Xml.XmlSerializer.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Xml.XPath.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Xml.XPath.XDocument.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Antlr3.Runtime.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Autofac.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Autofac.Integration.Mvc.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Autofac.Integration.WebApi.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Data.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Localization.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Models.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Repositories.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Services.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.ViewModels.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\EntityFramework.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\EntityFramework.SqlServer.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AI.DependencyCollector.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AI.Web.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AI.WindowsServer.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.ApplicationInsights.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AspNet.WebApi.Versioning.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.Owin.Cors.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.Owin.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.Web.Infrastructure.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Newtonsoft.Json.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Owin.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Buffers.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Memory.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.Http.Formatting.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Numerics.Vectors.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Cors.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Helpers.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Http.Cors.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Http.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Http.WebHost.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Mvc.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Optimization.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Razor.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.WebPages.Deployment.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.WebPages.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.WebPages.Razor.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\WebGrease.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Data.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Data.dll.config
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Localization.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Models.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Models.dll.config
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Repositories.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Repositories.dll.config
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.Services.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\CamelsClub.ViewModels.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Autofac.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Autofac.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Autofac.Integration.Mvc.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Autofac.Integration.WebApi.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Autofac.Integration.WebApi.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\EntityFramework.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\EntityFramework.SqlServer.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AI.DependencyCollector.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AI.Web.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AI.WindowsServer.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.ApplicationInsights.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AspNet.WebApi.Versioning.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.AspNet.WebApi.Versioning.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.Owin.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.Owin.Cors.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Buffers.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Memory.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Net.Http.Formatting.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Numerics.Vectors.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Http.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Http.Cors.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Newtonsoft.Json.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Helpers.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Http.WebHost.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Mvc.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Optimization.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.Razor.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.WebPages.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.WebPages.Deployment.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\System.Web.WebPages.Razor.xml
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\Antlr3.Runtime.pdb
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\bin\en\CamelsClub.Localization.resources.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\obj\Release\CamelsClub.API.csprojAssemblyReference.cache
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\obj\Release\CamelsClub.API.csproj.CopyComplete
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\obj\Release\CamelsClub.API.dll
+D:\E-sars\Projects\Camels-Club-V3\CamelsClub.API\obj\Release\CamelsClub.API.pdb

@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1498905F-8020-47B1-8B4B-8C96D9178370}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CamelsClub.ViewModels</RootNamespace>
+    <AssemblyName>CamelsClub.ViewModels</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationLog\ApplicationLogCreateViewModel.cs" />
+    <Compile Include="CheckerModule\CheckerApprove\ReviewApproveCreateViewModel.cs" />
+    <Compile Include="CheckerModule\CheckerApprove\ReviewApproveViewModel.cs" />
+    <Compile Include="CheckerModule\CheckerApprove\ReviewApproveRequestCreateViewModel.cs" />
+    <Compile Include="CheckerModule\CheckerApprove\EditRejectedCamelCreateViewModel.cs" />
+    <Compile Include="CheckerModule\CheckerApprove\ReplaceRejectedCamelCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CamelCompetition\CamelsInCompetitionCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CamelCompetition\CamelCompetitionEditViewModel.cs" />
+    <Compile Include="CompetitionModule\CamelCompetition\CamelCompetitionCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CamelCompetition\CamelCompetitionViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionChecker\ApproveGroupCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionChecker\ChangeCheckerCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\RefereeManualAllocate\RefereeAllocateCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\ManualAllocate\ManualAllocateCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionChecker\CompetitionCheckerPickupViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionChecker\CompetitionCheckerEditViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionConditions\CompetitionConditionEditViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionInvite\ReviewedCamelViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionInvite\ReviewedCompetitorViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionInvite\CompetitionInviteEditViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionReferee\CompetitionRefereeEditViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionSpecification\CompetitionSpecificationCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionSpecification\CompetitionSpecificationEditViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionSpecification\CompetitionSpecificationViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionTeamReward\CompetitionTeamRewardCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionTeamReward\CompetitionTeamRewardEditViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionTeamReward\CompetitionTeamRewardViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionReward\CompetitionRewardEditViewModel.cs" />
+    <Compile Include="CompetitionModule\Competition\CompetitionEditViewModel.cs" />
+    <Compile Include="CompetitionModule\Competition\CompetitionWinnerViewModel.cs" />
+    <Compile Include="Enums\InvitedUserStatus.cs" />
+    <Compile Include="Enums\NotificationSettingValue.cs" />
+    <Compile Include="Enums\ReviewApproveStatus.cs" />
+    <Compile Include="Notification\NotificationTypeViewModel.cs" />
+    <Compile Include="Notification\NotificationSettingEditViewModel.cs" />
+    <Compile Include="Notification\NotificationSettingsKey.cs" />
+    <Compile Include="Notification\NotificationValueEditViewModel.cs" />
+    <Compile Include="Notification\UserNotificationSettingViewModel.cs" />
+    <Compile Include="RefereeModule\ChangeCheckerBossCreateViewModel.cs" />
+    <Compile Include="RefereeModule\ChangeRefereeBossCreateViewModel.cs" />
+    <Compile Include="RefereeModule\CamelReviewEditViewModel.cs" />
+    <Compile Include="SocialModule\BlockedFriend\BlockedFriendCreateViewModel.cs" />
+    <Compile Include="SocialModule\BlockedFriend\BlockedFriendViewModel.cs" />
+    <Compile Include="CheckerModule\CheckerApprove\CheckerApproveCreateViewModel.cs" />
+    <Compile Include="CheckerModule\CheckerApprove\CheckerApproveViewModel.cs" />
+    <Compile Include="CheckerModule\CheckerApprove\CheckerBossApprovalCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionChecker\CompetitionCheckerCreateViewModel.cs" />
+    <Compile Include="Enums\NotificationType.cs" />
+    <Compile Include="Enums\CheckerApprovalStatus.cs" />
+    <Compile Include="SocialModule\Message\MessageCreateViewModel.cs" />
+    <Compile Include="SocialModule\Message\MessageViewModel.cs" />
+    <Compile Include="SocialModule\IssueReport\IssueReportCreateViewModel.cs" />
+    <Compile Include="SocialModule\IssueReport\IssueReportViewModel.cs" />
+    <Compile Include="RefereeModule\CamelReviewCreateViewModel.cs" />
+    <Compile Include="RefereeModule\CamelsApprovmentStatisticViewModel.cs" />
+    <Compile Include="RefereeModule\CamelSpecificationViewModel.cs" />
+    <Compile Include="RefereeModule\RefreeCamelReviewCreateViewModel.cs" />
+    <Compile Include="SocialModule\ReportReason\ReportReasonCreateViewModel.cs" />
+    <Compile Include="SocialModule\ReportReason\ReportReasonViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionChecker\CompetitionCheckerSubmitCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionChecker\CompetitionCheckerViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionInvite\CompetitionInviteCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionInvite\CompetitionInviteViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionReferee\CompetitionRefereeCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionReferee\CompetitionRefereeViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionConditions\CompetitionConditionCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionConditions\CompetitionConditionViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionReward\CompetitionRewardCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\CompetitionReward\CompetitionRewardViewModel.cs" />
+    <Compile Include="CompetitionModule\Competition\CompetitionCreateViewModel.cs" />
+    <Compile Include="CompetitionModule\Competition\CompetitionViewModel.cs" />
+    <Compile Include="Enums\FriendRequestStatus.cs" />
+    <Compile Include="Enums\CompetitionType.cs" />
+    <Compile Include="Enums\TypeOfNotification.cs" />
+    <Compile Include="SocialModule\FriendRequest\ReceivedFriendRequestViewModel.cs" />
+    <Compile Include="SocialModule\Friend\FriendCreateViewModel.cs" />
+    <Compile Include="SocialModule\Friend\FriendViewModel.cs" />
+    <Compile Include="SocialModule\FriendRequest\FriendRequestCreateViewModel.cs" />
+    <Compile Include="SocialModule\FriendRequest\FriendRequestViewModel.cs" />
+    <Compile Include="CamelModule\Camel\CamelCreateViewModel.cs" />
+    <Compile Include="CamelModule\Camel\CamelViewModel.cs" />
+    <Compile Include="CamelModule\CamelGroup\CamelGroupCreateViewModel.cs" />
+    <Compile Include="CamelModule\CamelGroup\CamelGroupViewModel.cs" />
+    <Compile Include="CamelModule\CamelDocument\CamelDocumentCreateViewModel.cs" />
+    <Compile Include="CamelModule\CamelDocument\CamelDocumentViewModel.cs" />
+    <Compile Include="Notification\NotificationCreateViewModel.cs" />
+    <Compile Include="Notification\NotificationViewModel.cs" />
+    <Compile Include="Shared\ListViewModel.cs" />
+    <Compile Include="Shared\NotificationReceiverTokensViewModels.cs" />
+    <Compile Include="SocialModule\ConditionsAndTerms\ConditionsAndTerms.cs" />
+    <Compile Include="SocialModule\UserProfile\ProfileVideoViewModel.cs" />
+    <Compile Include="SocialModule\UserProfile\ProfileImageViewModel.cs" />
+    <Compile Include="SocialModule\UserProfile\ProfileVideoCreateViewModel.cs" />
+    <Compile Include="SocialModule\UserProfile\ProfileImageCreateViewModel.cs" />
+    <Compile Include="SocialModule\UserProfile\UserProfileCreateViewModel.cs" />
+    <Compile Include="SocialModule\UserProfile\UserProfileViewModel.cs" />
+    <Compile Include="Enums\PostStatus.cs" />
+    <Compile Include="Enums\PostType.cs" />
+    <Compile Include="CamelModule\GenderConfigDetail\GenderConfigDetailViewModel.cs" />
+    <Compile Include="CamelModule\Group\GroupCreateViewModel.cs" />
+    <Compile Include="CamelModule\Group\GroupViewModel.cs" />
+    <Compile Include="CamelModule\Category\CategoryCreateViewModel.cs" />
+    <Compile Include="CamelModule\Category\CategoryViewModel.cs" />
+    <Compile Include="SocialModule\CommentUserAction\CommentUserActionCreateViewModel.cs" />
+    <Compile Include="SocialModule\CommentUserAction\CommentUserActionViewModel.cs" />
+    <Compile Include="Enums\Roles.cs" />
+    <Compile Include="SocialModule\PostUserAction\PostUserActionCreateViewModel.cs" />
+    <Compile Include="SocialModule\PostUserAction\PostUserActionViewModel.cs" />
+    <Compile Include="SocialModule\Comment\CommentViewModel.cs" />
+    <Compile Include="SocialModule\Comment\CommentCreateViewModel.cs" />
+    <Compile Include="CamelModule\Document\CommentDocumentCreateViewModel.cs" />
+    <Compile Include="CamelModule\Document\PostDocumentCreateViewModel.cs" />
+    <Compile Include="CamelModule\Document\DocumentViewModel.cs" />
+    <Compile Include="Enums\ApplicationLogType.cs" />
+    <Compile Include="Enums\Languages.cs" />
+    <Compile Include="Enums\Provider.cs" />
+    <Compile Include="SocialModule\Post\CreatePostViewModel.cs" />
+    <Compile Include="SocialModule\Post\PostDetailsViewModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shared\PagingViewModel.cs" />
+    <Compile Include="SocialModule\UserConfirmationMessage\ConfirmationMessageViewModel.cs" />
+    <Compile Include="Shared\ResultViewModel.cs" />
+    <Compile Include="SocialModule\Token\TokenViewModel.cs" />
+    <Compile Include="SocialModule\UserConfirmationMessage\UpdateUserConfirmationCode.cs" />
+    <Compile Include="SocialModule\User\UserChatViewModel.cs" />
+    <Compile Include="SocialModule\User\VerificationCodeCreateViewModel.cs" />
+    <Compile Include="SocialModule\User\LoginCreateViewModel.cs" />
+    <Compile Include="SocialModule\User\CreateUserViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CamelsClub.Localization\CamelsClub.Localization.csproj">
+      <Project>{0ffd5dfe-1cb2-492c-be83-5fd1da6b4233}</Project>
+      <Name>CamelsClub.Localization</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CamelsClub.Models\CamelsClub.Models.csproj">
+      <Project>{3fd6f292-f964-4206-a4a1-22cee340e755}</Project>
+      <Name>CamelsClub.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

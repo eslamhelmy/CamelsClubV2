@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="InvaildCode" xml:space="preserve">
+    <value>هذا الكود غير صحيح</value>
+  </data>
+  <data name="InValidEmail" xml:space="preserve">
+    <value>البريد الالكتروني غير صحيح</value>
+  </data>
+  <data name="InValidNID" xml:space="preserve">
+    <value>رقم الهوية يجب ان يحتوي علي ارقام فقط وطوله 10 ارقام</value>
+  </data>
+  <data name="InValidPhoneNumber" xml:space="preserve">
+    <value>يجب أن يبدأ رقم الهاتف بـ (05) ويبلغ طوله 10 أرقام</value>
+  </data>
+  <data name="PhoneRequired" xml:space="preserve">
+    <value>يجب ادخال رقم الهاتف</value>
+  </data>
+  <data name="RequiredFieldValidation" xml:space="preserve">
+    <value>هذا الحقل مطلوب</value>
+  </data>
+  <data name="SendVerificationCode" xml:space="preserve">
+    <value>تم ارسال كود الي رقم الهاتف الذي تم ادخاله ,الرجاء التحقق من هاتفك</value>
+  </data>
+  <data name="SendVerificationCodeError" xml:space="preserve">
+    <value>عذرا حدث خطأ اثناء ارسال الكود الي رقم الهاتف الذي تم ادخاله</value>
+  </data>
+  <data name="UserNotFound" xml:space="preserve">
+    <value> لا يوجد مستخدم بهذا الرقم , الرجاء ادخال رقم صحيح</value>
+  </data>
+  <data name="VerfifySucccessfully" xml:space="preserve">
+    <value>تم التحقق من الكود بنجاح</value>
+  </data>
+  <data name="EmailAreadyExist" xml:space="preserve">
+    <value>هذا البريد الإلكتروني موجود من قبل</value>
+  </data>
+  <data name="PhoneNumberAreadyExist" xml:space="preserve">
+    <value>هذا الرقم موجود من قبل</value>
+  </data>
+  <data name="DataLoaded" xml:space="preserve">
+    <value>تمت عملية تحميل البيانات بنجاج</value>
+  </data>
+  <data name="CodeUsedBefore" xml:space="preserve">
+    <value>هذا الكود مستخدم من قبل</value>
+  </data>
+  <data name="CommentAddedSuccessfully" xml:space="preserve">
+    <value>تمت عملية إضافة التعليق بنجاح</value>
+  </data>
+  <data name="CommentDeletedSuccessfully" xml:space="preserve">
+    <value>تمت عملية حذف المنشور بنجاح</value>
+  </data>
+  <data name="CommentUpdatedSuccessfully" xml:space="preserve">
+    <value>تمت عملية تعديل التعليق بنبجاح</value>
+  </data>
+  <data name="PostAddedSuccessfully" xml:space="preserve">
+    <value>تم إضافة المنشور الخاص بك بنجاح</value>
+  </data>
+  <data name="PostDeletededSuccessfully" xml:space="preserve">
+    <value>تم حذف المنشور الخاص بك بنجاح</value>
+  </data>
+  <data name="PostUpdatededSuccessfully" xml:space="preserve">
+    <value>تم تعديل المنشور بنجاح</value>
+  </data>
+  <data name="CommentNotFound" xml:space="preserve">
+    <value>هذا التعليق غير موجود</value>
+  </data>
+  <data name="PostNotFound" xml:space="preserve">
+    <value>هذا المشور غير موجود</value>
+  </data>
+  <data name="AddedSuccessfully" xml:space="preserve">
+    <value>تمت عملية الاضافة بنجاح</value>
+  </data>
+  <data name="UpdatedSuccessfully" xml:space="preserve">
+    <value>تم التعديل بنجاح</value>
+  </data>
+  <data name="DataDeleted" xml:space="preserve">
+    <value>تمت عملية حذف البيانات بنجاح</value>
+  </data>
+  <data name="ExistedItems" xml:space="preserve">
+    <value>لطفا لقد تمت إضافة هذه العناصر من قبل</value>
+  </data>
+  <data name="InvalidCompetitionDates" xml:space="preserve">
+    <value>يجب أن يكون تاريخ انتهاء المسابقة أكبر من أو يساوي تاريخ البدء</value>
+  </data>
+  <data name="InvalidCompetitionStartDate" xml:space="preserve">
+    <value>يجب أن يكون تاريخ بدء المسابقة أكبر من أو يساوي التاريخ الحالي</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>هذا العنصر غير موجود</value>
+  </data>
+  <data name="SendingFailure" xml:space="preserve">
+    <value>حدث خطأ أثناء إرسال الإشعار</value>
+  </data>
+  <data name="FriendRequestApporoved" xml:space="preserve">
+    <value>تمت عملية قبول طلب المتابعة بنجاح</value>
+  </data>
+  <data name="InvalidVotePercentage" xml:space="preserve">
+    <value>نسبة التصويت غير صحيحة</value>
+  </data>
+  <data name="InvitedUsersJoined" xml:space="preserve">
+    <value>يوجد متسابقين ولا يمكنك التعديل</value>
+  </data>
+  <data name="CamelsSpecificationRequired" xml:space="preserve">
+    <value>خصائص تقيم الجمل لا يجب ان تكون فارغة</value>
+  </data>
+  <data name="CamelTotalsSpecifcationsValue" xml:space="preserve">
+    <value>يجب ألا  يزيد إجمالي ملخص مراجعة مواصفات الجمال عن 100٪</value>
+  </data>
+  <data name="NotRefree" xml:space="preserve">
+    <value>انت لست  ضمن حكام هذة المسابقة</value>
+  </data>
+  <data name="reviewsubmitsucessfully" xml:space="preserve">
+    <value>تم اجراء التقييم بنجاج</value>
+  </data>
+  <data name="camelreviewedbefore" xml:space="preserve">
+    <value>لقد تم تقييم هذا الجمل من قبل</value>
+  </data>
+  <data name="camelspecificationcount" xml:space="preserve">
+    <value>يجب ألا يقل رقم مواصفات الجمل الذي تم إدخاله عن إجمالي عدد مواصفات التحكيم</value>
+  </data>
+  <data name="MoreThanOneCheckerBoss" xml:space="preserve">
+    <value>هناك اكثر من رئيس للتمييز</value>
+  </data>
+  <data name="MoreThanOneRefereeBoss" xml:space="preserve">
+    <value>هناك اكثر من رئيس للتحكيم</value>
+  </data>
+  <data name="RefereeNotExist" xml:space="preserve">
+    <value>هذا المستخدم ليس حكم</value>
+  </data>
+  <data name="SendMessageToYourself" xml:space="preserve">
+    <value>لا يوجد مستقبل للرسالة</value>
+  </data>
+  <data name="ChooseOneBossChecker" xml:space="preserve">
+    <value>قم باختيار رئيس تمييز واحد</value>
+  </data>
+  <data name="ChooseOneReferee" xml:space="preserve">
+    <value>قم باختيار رئيس تحكيم واحد</value>
+  </data>
+  <data name="CompetitionIsFinished" xml:space="preserve">
+    <value>تم اعتماد النتيجة لمنشئ المسابقة</value>
+  </data>
+  <data name="UserNameAlreadyExist" xml:space="preserve">
+    <value>اسم المستخدم موجود من قبل اختر اسم جديد</value>
+  </data>
+</root>

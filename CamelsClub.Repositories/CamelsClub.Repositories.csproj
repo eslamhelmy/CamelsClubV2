@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3C474CC4-0AFB-47B0-8E75-A684C425037D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CamelsClub.Repositories</RootNamespace>
+    <AssemblyName>CamelsClub.Repositories</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CheckerModule\ReviewApproveRepository\ReviewApproveRepository.cs" />
+    <Compile Include="CheckerModule\ReviewApproveRepository\IReviewApproveRepository.cs" />
+    <Compile Include="CheckerModule\CheckerApproveRepository\CheckerApproveRepository.cs" />
+    <Compile Include="CheckerModule\CheckerApproveRepository\ICheckerApproveRepository.cs" />
+    <Compile Include="CompetitionModule\ApprovedGroup\ApprovedGroupRepository.cs" />
+    <Compile Include="CompetitionModule\ApprovedGroup\IApprovedGroupRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionRefereeAllocate\CompetitionRefereeAllocateRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionRefereeAllocate\ICompetitionRefereeAllocateRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionAllocate\CompetitionAllocateRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionAllocate\ICompetitionAllocateRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionSpecification\CompetitionSpecificationRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionSpecification\ICompetitionSpecificationRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionTeamReward\CompetitionTeamRewardRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionTeamReward\ICompetitionTeamRewardRepository.cs" />
+    <Compile Include="Notification\INotificationTypeRepository.cs" />
+    <Compile Include="Notification\IUserNotificationSettingRepository.cs" />
+    <Compile Include="Notification\INotificationSettingRepository.cs" />
+    <Compile Include="Notification\NotificationTypeRepository.cs" />
+    <Compile Include="Notification\UserNotificationSettingRepository.cs" />
+    <Compile Include="Notification\NotificationSettingRepository.cs" />
+    <Compile Include="RefereeModule\CamelSpecificationRepository\ICamelSpecificationRepository.cs" />
+    <Compile Include="RefereeModule\CamelSpecificationRepository\CamelSpecificationRepository.cs" />
+    <Compile Include="RefereeModule\RefreeCamelReviewRepository\RefreeCamelReviewRepository.cs" />
+    <Compile Include="RefereeModule\RefreeCamelReviewRepository\IRefreeCamelReviewRepository.cs" />
+    <Compile Include="SocialModule\CommentDocument\ICommentDocumentRepository.cs" />
+    <Compile Include="SocialModule\CommentDocument\CommentDocumentRepository.cs" />
+    <Compile Include="CompetitionModule\CamelCompetitionRepository\CamelCompetitionRepository.cs" />
+    <Compile Include="CompetitionModule\CamelCompetitionRepository\ICamelCompetitionRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionChecker\CompetitionCheckerRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionChecker\ICompetitionCheckerRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionInvite\CompetitionInviteRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionInvite\ICompetitionInviteRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionCondition\CompetitionConditionRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionCondition\ICompetitionConditionRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionReferee\CompetitionRefereeRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionReferee\ICompetitionRefereeRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionReward\CompetitionRewardRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionReward\ICompetitionRewardRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionRepository\CompetitionRepository.cs" />
+    <Compile Include="CompetitionModule\CompetitionRepository\ICompetitionRepository.cs" />
+    <Compile Include="SocialModule\BlockedFriend\BlockedFriendRepository.cs" />
+    <Compile Include="SocialModule\BlockedFriend\IBlockedFriendRepository.cs" />
+    <Compile Include="SocialModule\Message\MessageRepository.cs" />
+    <Compile Include="SocialModule\Message\IMessageRepository.cs" />
+    <Compile Include="SocialModule\Friend\FriendRepository.cs" />
+    <Compile Include="SocialModule\Friend\IFriendRepository.cs" />
+    <Compile Include="SocialModule\FriendRequest\IFriendRequestRepository.cs" />
+    <Compile Include="SocialModule\FriendRequest\FriendRequestRepository.cs" />
+    <Compile Include="SocialModule\Page\IPageRepository.cs" />
+    <Compile Include="SocialModule\Page\PageRepository.cs" />
+    <Compile Include="SocialModule\ProfileVideo\IProfileVideoRepository.cs" />
+    <Compile Include="SocialModule\ProfileVideo\ProfileVideoRepository.cs" />
+    <Compile Include="SocialModule\ProfileImage\IProfileImageRepository.cs" />
+    <Compile Include="SocialModule\ProfileImage\ProfileImageRepository.cs" />
+    <Compile Include="SocialModule\ConditionsAndTerms\IConditionsAndTermsRepository.cs" />
+    <Compile Include="SocialModule\ConditionsAndTerms\ConditionsAndTermsRepository.cs" />
+    <Compile Include="SocialModule\PagePermission\IPagePermissionRepository.cs" />
+    <Compile Include="SocialModule\PagePermission\PagePermissionRepository.cs" />
+    <Compile Include="SocialModule\UserProfile\UserProfileRepository.cs" />
+    <Compile Include="SocialModule\UserProfile\IUserProfileRepository.cs" />
+    <Compile Include="CamelModule\CamelDocumentRepository\CamelDocumentRepository.cs" />
+    <Compile Include="CamelModule\CamelDocumentRepository\ICamelDocumentRepository.cs" />
+    <Compile Include="CamelModule\CamelRepository\CamelRepository.cs" />
+    <Compile Include="CamelModule\CamelRepository\ICamelRepository.cs" />
+    <Compile Include="CamelModule\CamelGroupRepository\CamelGroupRepository.cs" />
+    <Compile Include="CamelModule\CamelGroupRepository\ICamelGroupRepository.cs" />
+    <Compile Include="CamelModule\GenderConfigDetailRepository\GenderConfigDetailRepository.cs" />
+    <Compile Include="CamelModule\GenderConfigDetailRepository\IGenderConfigDetailRepository.cs" />
+    <Compile Include="CamelModule\GenderConfigRepository\GenderConfigRepository.cs" />
+    <Compile Include="CamelModule\GenderConfigRepository\IGenderConfigRepository.cs" />
+    <Compile Include="CamelModule\GroupRepository\GroupRepository.cs" />
+    <Compile Include="CamelModule\GroupRepository\IGroupRepository.cs" />
+    <Compile Include="CamelModule\CategoryRepository\CategoryRepository.cs" />
+    <Compile Include="CamelModule\CategoryRepository\ICategoryRepository.cs" />
+    <Compile Include="Notification\INotificationRepository.cs" />
+    <Compile Include="Notification\NotificationRepository.cs" />
+    <Compile Include="SocialModule\PostDocument\PostDocumentRepository.cs" />
+    <Compile Include="SocialModule\PostDocument\IPostDocumentRepository.cs" />
+    <Compile Include="SocialModule\Action\ActionRepository.cs" />
+    <Compile Include="SocialModule\Action\IActionRepository.cs" />
+    <Compile Include="SocialModule\Comment\CommentRepository.cs" />
+    <Compile Include="SocialModule\Comment\ICommentRepository.cs" />
+    <Compile Include="SocialModule\CommentUserAction\CommentUserActionRepository.cs" />
+    <Compile Include="SocialModule\CommentUserAction\ICommentUserActionRepository.cs" />
+    <Compile Include="GenericRepository\GenericRepository.cs" />
+    <Compile Include="GenericRepository\IGenericRepository.cs" />
+    <Compile Include="SocialModule\Post\IPostRepository.cs" />
+    <Compile Include="SocialModule\Post\PostRepository.cs" />
+    <Compile Include="SocialModule\PostUserAction\IPostUserActionRepository.cs" />
+    <Compile Include="SocialModule\PostUserAction\PostUserActionRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SocialModule\IssueReport\IIssueReportRepository.cs" />
+    <Compile Include="SocialModule\IssueReport\IssueReportRepository.cs" />
+    <Compile Include="SocialModule\ReportReason\IReportReasonRepository.cs" />
+    <Compile Include="SocialModule\ReportReason\ReportReasonRepository.cs" />
+    <Compile Include="SocialModule\Role\IRoleRepository.cs" />
+    <Compile Include="SocialModule\Role\RoleRepository.cs" />
+    <Compile Include="SocialModule\Token\ITokenRepository.cs" />
+    <Compile Include="SocialModule\Token\TokenRepository.cs" />
+    <Compile Include="SocialModule\UserConfirmationMessage\IUserConfirmationMessageRepository.cs" />
+    <Compile Include="SocialModule\UserConfirmationMessage\UserConfirmationMessageRepository.cs" />
+    <Compile Include="SocialModule\User\IUserRepository.cs" />
+    <Compile Include="SocialModule\User\UserRepository.cs" />
+    <Compile Include="SocialModule\UserRole\IUserRoleRepository.cs" />
+    <Compile Include="SocialModule\UserRole\UserRoleRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CamelsClub.Data\CamelsClub.Data.csproj">
+      <Project>{F6DDEF7D-E778-4F9F-A1C6-12DF2D14C747}</Project>
+      <Name>CamelsClub.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CamelsClub.Models\CamelsClub.Models.csproj">
+      <Project>{3fd6f292-f964-4206-a4a1-22cee340e755}</Project>
+      <Name>CamelsClub.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CamelsClub.ViewModels\CamelsClub.ViewModels.csproj">
+      <Project>{1498905F-8020-47B1-8B4B-8C96D9178370}</Project>
+      <Name>CamelsClub.ViewModels</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" />
+</Project>
